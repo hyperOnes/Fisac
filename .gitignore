@@ -1,0 +1,49 @@
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+.codex/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.coverage
+.coverage.*
+htmlcov/
+.venv/
+venv/
+env/
+ENV/
+
+# JavaScript / Vite
+chat_ui/node_modules/
+chat_ui/dist/
+.npm/
+.npm-cache/
+
+# Environment and local runtime state
+.env
+.env.*
+*.log
+*.pid
+
+# Local databases
+chat_api/*.db
+chat_api/*.db-*
+fiscal_chat.db
+fiscal_chat.db-*
+
+# Generated outputs and local snapshots
+benchmark_runs/
+artifacts/
+BACKUPS/

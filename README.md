@@ -4,6 +4,8 @@ Fisac is a local liquid-model research workspace that combines online liquid
 MoE experiments, benchmark tooling, a FastAPI chat backend, a React chat UI,
 and the Cursor Lab realtime trajectory demo.
 
+![Miguel Fisac collage](docs/images/miguel-fisac-collage.png)
+
 ![Cursor Lab screenshot](docs/images/cursor-lab.png)
 
 ## Benchmark Note
